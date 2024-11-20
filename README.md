@@ -1,4 +1,4 @@
-# Searcha and Survillance Bot 
+# Search and Survillance Bot 
 
 This repository contains a set of projects and driver files for the STM32F401RE microcontroller, designed for interfacing with various sensors, displays, and peripherals. The repository includes STM32 driver code, Arduino-based sensor control, ESP32-based wireless communication, and a dynamic wireless network system, where data from various sensors can be displayed on a personal web page and processed through UART.
 
